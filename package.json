@@ -1,0 +1,9 @@
+{
+  "name": "hermasbot",
+  "version": "1.0.0",
+  "dependencies": {
+    "discord.js": "^14.21.0",
+    "express": "^5.1.0",
+    "sqlite3": "^5.1.7"
+  }
+}
